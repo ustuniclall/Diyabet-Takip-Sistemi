@@ -1,0 +1,29 @@
+# --- NetBeans & IDE Build Kuralları ---
+build/
+dist/
+nbproject/private/
+nbbuild/
+nbdist/
+.netbeans_automatic_build
+.netbeans_update_resources
+built-jar.properties
+
+# --- IDE Ayarları ve Sistem Dosyaları ---
+.idea/
+.vscode/
+.settings/
+.classpath
+.project
+.DS_Store
+Thumbs.db
+
+# --- Java Derleme Çıktıları ---
+*.class
+*.jar
+*.war
+
+# --- Veritabanı ve Yerel Rapor Kalıntıları ---
+*.sql
+*.log
+*.pdf
+*.xlsx
