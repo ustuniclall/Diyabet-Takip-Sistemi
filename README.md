@@ -31,11 +31,11 @@ Sistem mimarisi MySQL üzerinde birbiriyle ilişkili ve kısıtları tanımlanm�
 
 | 1. Mail ile Şifre Gönderimi | 2. Hasta Kullanıcı Paneli | 3. Doktor / Admin Yönetimi |
 | :---: | :---: | :---: |
-| <img src="screenshots/mail_sifre.png" width="230"> | <img src="screenshots/hasta_paneli.png" width="230"> | <img src="screenshots/admin_panel.png" width="230"> |
+| <img src="mail_sifre.png" width="230"> | <img src="hasta_paneli.png" width="230"> | <img src="admin_panel.png" width="230"> |
 
 | 4. Günlük Kan Şekeri Grafiği | 5. Diyet & Egzersiz Uyum Grafiği |
 | :---: | :---: |
-| <img src="screenshots/kan_sekeri_grafigi.png" width="280"> | <img src="screenshots/uyum_grafigi.png" width="280"> |
+| <img src="kan_sekeri_grafigi.png" width="280"> | <img src="uyum_grafigi.png" width="280"> |
 
 ## 👥 Geliştiriciler
 * **Merve Kübra ÖZTÜRK**
